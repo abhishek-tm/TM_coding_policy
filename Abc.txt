@@ -1,3 +1,7 @@
 Testing Conflict
+<<<<<<< HEAD
+Siddhika
+=======
 Mohsin
 Trainig
+>>>>>>> 0f2ff7a9312302201a1f6b44fcf18a48e7d5b98f
