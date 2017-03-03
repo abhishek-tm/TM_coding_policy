@@ -1,5 +1,3 @@
 # TM_coding_policy
 
-One
-
-Two
+This is Teramatrix GIT policy README.
